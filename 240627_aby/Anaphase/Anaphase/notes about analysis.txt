@@ -1,3 +1,0 @@
-240627_triple_5_Cell 2 deleted because too in the edge of the z-stack
-240627_triple_5_Cell 10 left out because new SPB goes too far to the top of the z stack
-240627_triple_7_Cell 2 left out because new SPB goes too far to the top of the z stack
