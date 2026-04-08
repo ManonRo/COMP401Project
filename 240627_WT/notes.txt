@@ -1,0 +1,20 @@
+240627_WT_7_Cell 7 (metaphase cell) has a depolym pulling event 
+240627_WT_8_Cell 1 deleted because it is anaphase cell with bud going out of bounds
+240627_WT_9_Cell 4 deleted because it moves out during the acquisition
+240627_WT_10_Cell 5 (metaphase cell) maybe has a depolym pulling event
+240627_WT_11_Cell 6 (metaphase cell) maybe has a depolym pulling event 
+240627_WT_12_Cell 7 (metaphase cell) has a depolym pulling event
+240627_WT_13_Cell 3 (unbudded cell) has a depolym pulling event
+240627_WT_13_Cell 5 (unbudded cell) has a very clear depolym pulling event
+240627_WT_13_Cell 7 (metaphase cell) has a maybe depolym pulling event 
+240627_WT_13_Cell 10 (metaphase cell) clear oSPB movement, possible depolym
+240627_WT_14_Cell 1 (metaphase cell) depolym pulling event
+240627_WT_14_Cell 4 (metaphase cell) possible depolym pulling event
+240627_WT_14_Cell 7-8 deleted because it moves out during acquisition
+240627_WT_14_Cell 9 (metaphase cell) moves during second half of acquisition
+240627_WT_14_Cell 14 (metaphase cell) deleted because moves
+240627_WT_14_Cell 19 (metaphase cell) great example of fusion and then fission, where fusion causes slowing down of depolymerization
+240627_WT_14_Cell 20 (unbudded cell) deleted because no signal
+240627_WT_15_Cell 9 (metaphase cell) deleted because no signal
+240637_WT_15_Cell 17 (metaphase cell) deleted because no signal
+

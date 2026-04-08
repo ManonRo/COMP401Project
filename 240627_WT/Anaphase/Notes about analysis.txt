@@ -1,0 +1,1 @@
+Deleted 240627_12_Cell 3 because the fluorescent signal was in the very top of the z-stack, so positions are unreliable and there might be missing data 
